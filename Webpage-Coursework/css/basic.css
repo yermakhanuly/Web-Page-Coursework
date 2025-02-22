@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+}
+
+header {
+    border: 1px;
+    background-color: gray;
+    text-align: center;
+    padding-bottom: 30px;
+    color: white;
+    
+}
+nav ul{
+    list-style-type: none;
+    background-color: rgb(69, 36, 73);
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+nav a:hover{
+    background-color: gainsboro;
+}
+nav li{
+    float: left;
+}
+nav a:visited{
+    color: rgb(160, 158, 161);
+}
+nav a:active{
+    color: white;
+}
+
+footer {
+    border: 2px solid gainsboro;
+    background-color: gainsboro;
+    float: left;
+    width: 100%;
+    text-align: center;
+    color: white;
+    
+}

@@ -1,0 +1,49 @@
+
+.header {
+    padding: 20px;
+    text-align: center;
+}
+.header img {
+    height: 150px;
+    width: 500px;
+}
+.header h1 {
+    color: black;
+}
+
+
+.navigation_bar {
+    display: none;
+}
+
+.tb1{
+    display: none;
+}
+
+table {
+    width: 99%;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid black;
+}
+
+.footer {
+    clear: both;
+    width: 100%;
+    text-align: center;
+    position: sticky;
+}
+.footer img {
+    height: 40px;
+    width: 260px;
+}
+.footer p {
+    color: black;
+}
+.footer a {
+    text-decoration: none;
+    color: black;
+}

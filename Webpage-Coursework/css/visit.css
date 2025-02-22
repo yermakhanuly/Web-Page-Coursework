@@ -1,0 +1,34 @@
+
+.text{
+    background-color: rgb(235, 234, 234);
+    font-size: 20px;
+    padding:15px;
+}
+
+.content1{
+    float: left;
+    margin-left: 30px;
+}
+
+.content2{
+    float: left;
+    font-size: 30px;
+    margin-left: 100px;
+}
+.content3{
+    clear: both;
+    
+}
+h3{
+    text-align: center;
+    font-size: 30px;
+}
+.d{
+    margin-left: 150px;
+}
+.t{
+    margin-left: 147px;
+}
+.c{
+    margin-left: 90px;
+}
